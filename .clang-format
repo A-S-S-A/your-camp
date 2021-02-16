@@ -1,0 +1,8 @@
+---
+BasedOnStyle: WebKit
+ColumnLimit: '100'
+SortIncludes: 'true'
+SortUsingDeclarations: 'true'
+UseTab: Never
+
+...
